@@ -4,24 +4,24 @@ project:
     - file: index.md
     - file: intro.md
 
-    - title: GitHub 
-    - file: Content/GitHub/uitleg.md
+    - title: Github 
+    - file: Content/Github/uitleg.md
       children:
         - file: Content/Github/1_intro.md
         - file: Content/Github/2_dependencies.md
         - file: Content/Github/3_features.md
-        - title: GitHub documentation
+        - title: Github documentation
           children:
-            - title: Motivation for Using GitHub
-              url: https://book.the-turing-way.org/collaboration/github-novice/github-novice-motivation
+            - title: Motivation for Using Github
+              url: https://book.the-turing-way.org/collaboration/Github-novice/Github-novice-motivation
             - title: Version control
               url: https://teachbooks.io/learn-programming/version_control/version_control
             - title: Intro to Git
               url: https://teachbooks.io/learn-programming/workflows/git/intro
             - title: first steps
-              url: https://book.the-turing-way.org/collaboration/github-novice/github-novice-firststeps
-            - title: GitHub
-              url: https://teachbooks.io/learn-programming/workflows/git/github
+              url: https://book.the-turing-way.org/collaboration/Github-novice/Github-novice-firststeps
+            - title: Github
+              url: https://teachbooks.io/learn-programming/workflows/git/Github
             - title: Commits remote
               url: https://teachbooks.io/learn-programming/workflows/git/commits_remote
             - title: Commits local
