@@ -47,6 +47,12 @@ project:
 
     - title: Labs
       file: Content/Labs/uitleg.md
+      children:
+      
+      - title: Soortelijke Warmte
+      - file: Content/Labs/5_druktemp
+      - file: Content/Labs/6_boltzmann
+      
       # children:
         
       # - title: Soortelijke warmte
