@@ -63,5 +63,5 @@ project:
           - file: Content/Labs/pV_diagram.ipynb
 
       - title: Faseovergang
-      children:
+        children:
           - file: Content/Labs/waxine.ipynb
