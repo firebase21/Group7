@@ -64,4 +64,4 @@ project:
 
       - title: Faseovergang
       children:
-          - file: Content/Labs/waxine
+          - file: Content/Labs/waxine.ipynb
